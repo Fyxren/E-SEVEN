@@ -4,7 +4,7 @@
 	import members from '../data/members';
 </script>
 
-<main class="my-16 space-y-20">
+<main class="my-16 space-y-24">
 	<!-- Header -->
 	<div class="grid grid-cols-2 gap-20">
 		<iframe
