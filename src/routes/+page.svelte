@@ -44,4 +44,40 @@
 			<MemberCard member={x} />
 		{/each}
 	</div>
+
+	<!-- CTA -->
+	<div class="flex flex-col justify-center text-center">
+		<h2 class="text-4xl font-bold tracking-wider">
+			Binnenkort een <span class="text-primary">bruiloft</span> of een ander
+			<span class="text-primary">evenement</span>?
+		</h2>
+
+		<div class="grid self-center grid-cols-4 gap-16 mt-10 max-w-7xl">
+			<div
+				class="flex flex-col items-center justify-center w-48 gap-5 px-5 py-10 duration-300 border-4 rounded-lg hover:scale-110 hover:rotate-3 border-secondary"
+			>
+				<p class="text-6xl duration-300">💕</p>
+				<p>3 vrienden die al jaren samen muziek maken</p>
+			</div>
+			<div
+				class="flex flex-col items-center justify-center w-48 gap-5 px-5 py-10 duration-300 border-4 rounded-lg hover:scale-110 hover:rotate-3 border-secondary"
+			>
+				<p class="text-6xl duration-300">✨️</p>
+				<p>Gevarieerd repetoire</p>
+			</div>
+			<div
+				class="flex flex-col items-center justify-center w-48 gap-5 px-5 py-10 duration-300 border-4 rounded-lg hover:scale-110 hover:rotate-3 border-secondary"
+			>
+				<p class="text-6xl duration-300">🎶</p>
+				<p>Actief in in de regio Zwolle, Kampen, Elburg en Nunspeet</p>
+			</div>
+			<div
+				class="flex flex-col items-center justify-center w-48 gap-5 px-5 py-10 duration-300 border-4 rounded-lg hover:scale-110 hover:rotate-3 border-secondary"
+			>
+				<p class="text-6xl duration-300">🎤</p>
+				<p>Akoestisch of full band</p>
+			</div>
+		</div>
+		<a href="/contact" class="self-center mt-10 shadow-lg btn btn-primary btn-wide">Neem contact op</a>
+	</div>
 </main>
