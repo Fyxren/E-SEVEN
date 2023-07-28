@@ -78,6 +78,8 @@
 				<p>Akoestisch of full band</p>
 			</div>
 		</div>
-		<a href="/contact" class="self-center mt-10 shadow-lg btn btn-primary btn-wide">Neem contact op</a>
+		<a href="/contact" class="self-center mt-10 shadow-lg btn btn-primary btn-wide"
+			>Neem contact op</a
+		>
 	</div>
 </main>
