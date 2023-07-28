@@ -14,7 +14,7 @@
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 			allowfullscreen
 			color="#596655"
-			class="w-full rounded-lg h-max aspect-video"
+			class="w-full rounded-lg shadow-lg h-max aspect-video"
 		/>
 		<div class="flex flex-col justify-around">
 			<div>
@@ -34,7 +34,7 @@
 					</p>
 				</div>
 			</div>
-			<a href="/contact" class="btn btn-primary btn-wide">Contact</a>
+			<a href="/contact" class="shadow-lg btn btn-primary btn-wide">Contact</a>
 		</div>
 	</div>
 
