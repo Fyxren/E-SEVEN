@@ -2,6 +2,6 @@
 	export let region: string;
 </script>
 
-<a class="capitalize link-secondary" href={`https://www.google.com/maps/place/${region}`}
+<a class="capitalize link-secondary" target="_blank" href={`https://www.google.com/maps/place/${region}`}
 	>{region}</a
 >

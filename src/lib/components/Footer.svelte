@@ -8,7 +8,7 @@
 	</div>
 	<div>
 		<div class="grid grid-flow-col gap-4">
-			<a href="https://www.youtube.com/@e-sevenmusic">
+			<a target="_blank" href="https://www.youtube.com/@e-sevenmusic">
 				<svg
 					class="duration-300 fill-current hover:fill-primary"
 					width="40"
@@ -21,7 +21,7 @@
 					/>
 				</svg>
 			</a>
-			<a href="https://www.instagram.com/esevenmusic/">
+			<a target="_blank" href="https://www.instagram.com/esevenmusic/">
 				<svg
 					class="duration-300 fill-current hover:fill-primary"
 					width="40"
