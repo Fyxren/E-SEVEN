@@ -18,7 +18,9 @@
 		/>
 		<div class="flex flex-col justify-around">
 			<div>
-				<h1 class="text-3xl font-thin md:text-6xl">Wij zijn <span class="font-normal">E-SEVEN</span></h1>
+				<h1 class="text-3xl font-thin md:text-6xl">
+					Wij zijn <span class="font-normal">E-SEVEN</span>
+				</h1>
 				<p class="mt-2 text-lg md:text-2xl">Drie vrienden die al jaren muziek maken.</p>
 				<div class="mt-5 space-y-2">
 					<p>
