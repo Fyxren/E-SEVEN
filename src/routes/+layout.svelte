@@ -4,7 +4,7 @@
 	import '../app.css';
 </script>
 
-<div class="px-24">
+<div class="px-5 md:px-24">
 	<Navbar />
 	<slot />
 	<Footer />
