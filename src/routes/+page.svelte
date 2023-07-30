@@ -1,7 +1,7 @@
 <script lang="ts">
 	import MemberCard from '$lib/components/MemberCard.svelte';
 	import RT from '$lib/components/RegionText.svelte';
-	import members from '../data/members';
+	import members from '$lib/data/members';
 </script>
 
 <main class="my-8 space-y-24 md:my-16">
