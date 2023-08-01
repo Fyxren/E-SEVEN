@@ -1,9 +1,3 @@
-<script lang="ts">
-	import type { PageData } from './$types';
-
-	export let data: PageData;
-</script>
-
 <main class="my-10">
 	<h1 class="text-3xl font-thin text-center md:text-5xl">Contact</h1>
 	<p class="mt-2 text-center md:mt-10 md:text-lg">
