@@ -36,7 +36,9 @@
 					</p>
 				</div>
 			</div>
-			<a href="/contact" class="self-center mt-5 shadow-lg lg:self-start btn btn-primary btn-wide">Contact</a>
+			<a href="/contact" class="self-center mt-5 shadow-lg lg:self-start btn btn-primary btn-wide"
+				>Contact</a
+			>
 		</div>
 	</div>
 

@@ -18,7 +18,10 @@
 			</svg>
 			Mail
 		</a>
-		<a class="self-center btn btn-wide btn-outline btn-secondary" href="https://instagram.com/esevenmusic">
+		<a
+			class="self-center btn btn-wide btn-outline btn-secondary"
+			href="https://instagram.com/esevenmusic"
+		>
 			<svg
 				class="duration-300 fill-current"
 				width="32"
